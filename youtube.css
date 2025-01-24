@@ -1,0 +1,21 @@
+.search-box{
+    display:inline-block;
+}
+
+
+
+.container{
+    width: 300px;
+    display: inline-block;
+}
+
+.thumbnail{
+    width: 300px;
+}
+.chanel-picture{
+    display: inline-block;
+    width: 50px;
+}
+.ho{
+    display: inline-block;
+}
